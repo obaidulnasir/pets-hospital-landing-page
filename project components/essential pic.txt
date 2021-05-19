@@ -1,0 +1,6 @@
+Project Name: Pets Health Care
+Font: Poppins
+Font Color: gry-blue  #313243 
+Color: 1. Yellow  #fcc302
+	2.sky blue  #00bec9
+	3. gry #343434 (footer colour)
