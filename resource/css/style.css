@@ -1,0 +1,66 @@
+/* ============glabal section Start================== */
+/* ============================== */
+/* ======google fonts======= */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+h1,h2,h3,h5{
+    color:#fff;
+}
+/* p{
+    color:#fff;
+    font-size: 17px;
+    word-spacing: 2px;
+} */
+/* ============================== */
+/* =============global section end================= */
+
+
+
+/* **************Navebar Section Start**************** */
+.nav-section{
+    background-color: #c99c0a;
+}
+.nav-item{
+    font-size: 18px;
+}
+.top-menu-item{
+    color:#fff;
+}
+/* **************Navebar Section End**************** */
+
+
+
+/* **************Main Bannar Section Start**************** */
+.main-bannar-font{
+    color:#fff;
+}
+
+.main-bannar{
+    background-color: #fcc302;
+}
+/* **************Main Bannar Section Start**************** */
+
+
+
+
+/* **************Second Section Start**************** */
+.second-section-font{
+    color:#313243;
+}
+
+.second-section-image{
+    box-shadow: 0 4px 8px 0 rgba(201, 204, 8, 0.2), 0 6px 20px 0 rgba(226, 212, 17, 0.877);
+}
+/* **************Second Section End**************** */
+
+/* **************Third Section Start**************** */
+.third-section{
+    background-color: #fcc302;
+}
+/* **************Third Section End**************** */
+
+
+
